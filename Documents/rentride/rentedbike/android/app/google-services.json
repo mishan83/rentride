@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "892601144354",
+    "project_id": "rentride-8b74b",
+    "storage_bucket": "rentride-8b74b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892601144354:android:7a7f795e60491cc831267b",
+        "android_client_info": {
+          "package_name": "com.example.rentedbike"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892601144354-p1k981cjvp5i9ahsmt78tkeu9ksro19n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVyI1fAV5VwsyUyGTfr23l5XZ4gFHnsN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "892601144354-p1k981cjvp5i9ahsmt78tkeu9ksro19n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "892601144354-kf9dokg4eu787desuke4vod2p7ehecvc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.rentedbike"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892601144354:android:f51f3766a363281231267b",
+        "android_client_info": {
+          "package_name": "com.mjtechies.rentride"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892601144354-f8b7utsshffcjm9b6q1dno2rsvmsmlin.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mjtechies.rentride",
+            "certificate_hash": "bb50b290a2cdc02f88373dfe4747fc204f3febff"
+          }
+        },
+        {
+          "client_id": "892601144354-p1k981cjvp5i9ahsmt78tkeu9ksro19n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVyI1fAV5VwsyUyGTfr23l5XZ4gFHnsN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "892601144354-p1k981cjvp5i9ahsmt78tkeu9ksro19n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "892601144354-kf9dokg4eu787desuke4vod2p7ehecvc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.rentedbike"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
